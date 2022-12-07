@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Microsoft <br>🫡 I’m looking to collaborate on tech projects that are innovative<br>🤝 I’m looking for help with new technologies<br>🌱 I’m currently learning anything that is cool<br>💬 Ask me about smart home devices or automation<br>⚡ Fun fact: I love bread!
 
 
